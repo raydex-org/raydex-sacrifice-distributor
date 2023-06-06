@@ -6,5 +6,5 @@ This project was inspired by uniswap.
 
 ```shell
 npx hardhat test
-npx hardhat run scripts/deploy.js
+npx hardhat run scripts/deploy.js --network testnet
 ```
